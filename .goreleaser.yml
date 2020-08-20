@@ -26,3 +26,12 @@ archives:
         format: zip
 release:
   prerelease: auto
+
+brews:
+  - description: "release to homebrew"
+    tap:
+      owner: s14t284
+      name: homebrew-tap
+    homepage: "https://github.com/s14t284/gitignore-cli"
+    install: |
+      bin.install "gitignore-cli"
