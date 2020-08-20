@@ -11,7 +11,7 @@ import (
 
 // These variables are set in build step
 const (
-	Version  = "0.1.0"
+	Version  = "unset"
 	Revision = "unset"
 )
 
