@@ -32,7 +32,6 @@ brews:
     tap:
       owner: s14t284
       name: homebrew-tap
-      token: "{{ .Env.ACCESS_TOKEN }}"
     homepage: "https://github.com/s14t284/gitignore-cli"
     install: |
       bin.install "gitignore-cli"
