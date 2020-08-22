@@ -29,6 +29,7 @@ release:
 
 brews:
   - description: "release to homebrew"
+    name: "gitignore-cli"
     tap:
       owner: s14t284
       name: homebrew-tap
