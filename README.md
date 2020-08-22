@@ -2,6 +2,8 @@
 
 a cli to get gitignore list
 
+[日本語](README.ja.md)
+
 ## installation
 
 ```sh
